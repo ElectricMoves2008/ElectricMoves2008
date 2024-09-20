@@ -30,6 +30,16 @@ Check out my YouTube channel for a variety of content, including:
   
 Subscribe to ElectricMoves on YouTube for the latest updates and tutorials!
 
+## Some Content Focusing Video 
+
+- GameBooster application
+- Shell script tweaks
+- Android applications
+- Magisk modules content
+- NBA & Other Content
+- MLBB/CODM/PUBG/BGMI & MORE GAMES CONTENTS
+- (FIX PROBLEMS ON ANDROID PHONES)
+
 ## Popular Videos
 
 Here are some of my most popular videos:
