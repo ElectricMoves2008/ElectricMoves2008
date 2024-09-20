@@ -32,13 +32,19 @@ Subscribe to ElectricMoves on YouTube for the latest updates and tutorials!
 
 ## Some Content Focusing Video 
 
-- GameBooster application
+- Best GameBooster application
 - Shell script tweaks
 - Android applications
 - Magisk modules content
 - NBA & Other Content
 - MLBB/CODM/PUBG/BGMI & MORE GAMES CONTENTS
+- Android Tips/Tricks/Hacks
+- Exploring Hidden Settings Android
+- Android/gadgets phones tutorials
+- How To Unlock UBL/ROOT/GSI/CUSTOM ROM,KERNEL,RECOVERY On Android
+- Best Game launcher Contents
 - (FIX PROBLEMS ON ANDROID PHONES)
+- AND MORE TO HELP YOU!
 
 ## Popular Videos
 
